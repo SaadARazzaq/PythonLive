@@ -1,6 +1,6 @@
 # Modify a Python Function During Run-time 🚀
 
-![o1utput](https://github.com/SaadARazzaq/PythonLive/assets/123338307/669fd305-08c3-49bd-b8d8-20c5667389ea)
+![output121](https://github.com/SaadARazzaq/PythonLive/assets/123338307/bfca6a54-8e1c-48a1-ba1c-ffac06fd2f20)
 
 **Have you ever wanted to add more details to an already running code?**
 
